@@ -1,0 +1,20 @@
+# Dependencies
+node_modules/
+
+# Build
+dist/
+
+# Environment variables
+.env
+.env.*
+
+# Keep environment example
+!.env.example
+
+# Logs
+*.log
+yarn-error.log
+
+# Operating system
+.DS_Store
+Thumbs.db
